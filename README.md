@@ -1,4 +1,4 @@
-Olá, meu nome é keven souza grillo, esse teste técnico é de exemplo da empresa Target Sistemas, onde os desafios se baseava em 5 questões a serem resolvidas, segue abaixo a lista de desafios, foi fornecido também um arquivo Json externo acoplado ao email para resolução da questão 3. Optei por um prjeto no padrão MVC, aonde adicionei cada controller para cada desafio proposto, sei que não segue o padrão MVC correto, e poderia criar um projeto vazio e implementar novas classes de acordos com a pergunta, mas confesso que foi meio no automático a questão da arquitetura e tipo do projeto. mas se atente a resolução das questões, enfim, obrigado.
+Teste técnico da empresa Target Sistemas, onde os desafios se baseava em 5 questões a serem resolvidas, segue abaixo a lista de desafios, foi fornecido também um arquivo Json externo acoplado ao email para resolução da questão 3. Optei por fazer na linguagem C#
 
 1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
 Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
