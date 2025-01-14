@@ -1,4 +1,4 @@
-Teste técnico da empresa Target Sistemas, onde os desafios se baseava em 5 questões a serem resolvidas, segue abaixo a lista de desafios, foi fornecido também um arquivo Json externo acoplado ao email para resolução da questão 3. Optei por fazer na linguagem C#
+Teste técnico da empresa Target Sistemas, onde os desafios se baseava em 5 questões a serem resolvidas, segue abaixo a lista de desafios, foi fornecido também um arquivo Json externo acoplado ao email para resolução da questão 3. Optei por fazer na linguagem C#, está na pasta controller.
 
 1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
 Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
